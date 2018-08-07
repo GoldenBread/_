@@ -39,7 +39,7 @@
         "name": "mute",
         "urlIconImage": "https://www.shareicon.net/data/32x32/2016/04/28/756640_face_512x512.png",
         "venueId": "56c2ea3402275a0b00fb00ac",
-        "floor": 0
+        "floor": 1
       },
       "geometry": {
         "type": "Point",
