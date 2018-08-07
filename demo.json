@@ -41,7 +41,7 @@
         "name": "mute",
         "urlIconImage": "https://www.shareicon.net/data/32x32/2016/04/28/756640_face_512x512.png",
         "venueId": "56c2ea3402275a0b00fb00ac",
-        "floor": 0,
+        "floor": 2,
         "id": 3
       },
       "geometry": {
@@ -49,6 +49,40 @@
         "coordinates": [
           4.599543213844299,
           49.74251933236745
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "floor": 1,
+        "name": "surprised",
+        "urlIconImage": "https://www.shareicon.net/data/32x32/2016/04/28/756618_face_512x512.png",
+        "venueId": "56c2ea3402275a0b00fb00ac",
+        "id": 4
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.599371552467346,
+          49.74263373048328
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "floor": 0,
+        "name": "mute",
+        "urlIconImage": "https://www.shareicon.net/data/32x32/2016/04/28/756640_face_512x512.png",
+        "venueId": "56c2ea3402275a0b00fb00ac",
+        "id": 5
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.599250853061676,
+          49.74259386450383
         ]
       }
     }
