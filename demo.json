@@ -3,7 +3,12 @@
   "features": [
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "name": "surprised",
+        "urlIconImage": "https://www.shareicon.net/data/32x32/2016/04/28/756618_face_512x512.png",
+        "venueId": "56c2ea3402275a0b00fb00ac",
+        "floor": 0
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -14,12 +19,33 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "name": "sick",
+        "urlIconImage": "https://www.shareicon.net/data/32x32/2016/04/28/756638_face_512x512.png",
+        "venueId": "56c2ea3402275a0b00fb00ac",
+        "floor": 0
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
           4.599553942680359,
           49.74263199718049
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "mute",
+        "urlIconImage": "https://www.shareicon.net/data/32x32/2016/04/28/756640_face_512x512.png",
+        "venueId": "56c2ea3402275a0b00fb00ac",
+        "floor": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.599543213844299,
+          49.74251933236745
         ]
       }
     }
