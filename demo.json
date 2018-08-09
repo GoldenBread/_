@@ -3,7 +3,7 @@
   "features": [
     {
       "type": "Feature",
-      "id": "1",
+      "id": "id0",
       "properties": {
         "name": "surprised",
         "urlIconImage": "https://www.shareicon.net/data/32x32/2016/04/28/756618_face_512x512.png",
@@ -20,7 +20,7 @@
     },
     {
       "type": "Feature",
-      "id": "2",
+      "id": "id1",
       "properties": {
         "name": "sick",
         "urlIconImage": "https://www.shareicon.net/data/32x32/2016/04/28/756638_face_512x512.png",
@@ -37,7 +37,7 @@
     },
     {
       "type": "Feature",
-      "id": "3",
+      "id": "id2",
       "properties": {
         "name": "mute",
         "urlIconImage": "https://www.shareicon.net/data/32x32/2016/04/28/756640_face_512x512.png",
@@ -54,7 +54,7 @@
     },
     {
       "type": "Feature",
-      "id": "4",
+      "id": "id3",
       "properties": {
         "floor": 1,
         "name": "surprised",
@@ -71,7 +71,7 @@
     },
     {
       "type": "Feature",
-      "id": "5",
+      "id": "id4",
       "properties": {
         "floor": 0,
         "name": "mute",
