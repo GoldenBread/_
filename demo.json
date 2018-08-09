@@ -3,12 +3,12 @@
   "features": [
     {
       "type": "Feature",
+      "id": "1",
       "properties": {
         "name": "surprised",
         "urlIconImage": "https://www.shareicon.net/data/32x32/2016/04/28/756618_face_512x512.png",
         "venueId": "56c2ea3402275a0b00fb00ac",
-        "floor": 0,
-        "id": 1
+        "floor": 0
       },
       "geometry": {
         "type": "Point",
@@ -20,12 +20,12 @@
     },
     {
       "type": "Feature",
+      "id": "2",
       "properties": {
         "name": "sick",
         "urlIconImage": "https://www.shareicon.net/data/32x32/2016/04/28/756638_face_512x512.png",
         "venueId": "56c2ea3402275a0b00fb00ac",
-        "floor": 0,
-        "id": 2
+        "floor": 0
       },
       "geometry": {
         "type": "Point",
@@ -37,12 +37,12 @@
     },
     {
       "type": "Feature",
+      "id": "3",
       "properties": {
         "name": "mute",
         "urlIconImage": "https://www.shareicon.net/data/32x32/2016/04/28/756640_face_512x512.png",
         "venueId": "56c2ea3402275a0b00fb00ac",
-        "floor": 2,
-        "id": 3
+        "floor": 2
       },
       "geometry": {
         "type": "Point",
@@ -54,12 +54,12 @@
     },
     {
       "type": "Feature",
+      "id": "4",
       "properties": {
         "floor": 1,
         "name": "surprised",
         "urlIconImage": "https://www.shareicon.net/data/32x32/2016/04/28/756618_face_512x512.png",
-        "venueId": "56c2ea3402275a0b00fb00ac",
-        "id": 4
+        "venueId": "56c2ea3402275a0b00fb00ac"
       },
       "geometry": {
         "type": "Point",
@@ -71,12 +71,12 @@
     },
     {
       "type": "Feature",
+      "id": "5",
       "properties": {
         "floor": 0,
         "name": "mute",
         "urlIconImage": "https://www.shareicon.net/data/32x32/2016/04/28/756640_face_512x512.png",
-        "venueId": "56c2ea3402275a0b00fb00ac",
-        "id": 5
+        "venueId": "56c2ea3402275a0b00fb00ac"
       },
       "geometry": {
         "type": "Point",
